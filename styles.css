@@ -1,0 +1,25 @@
+body {
+  background-color: #c995;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  text-indent: 50px;
+text-align: justify;
+line-height: 1.5;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+
+}
+
+div{
+    font-size: 18px;
+   
+}
